@@ -1,1 +1,1 @@
-"# stock-prediction-RNN" 
+# stock-prediction-RNN
